@@ -15,7 +15,7 @@ Connect your AI coding agent to your API workspace in [Artery](https://prodarter
 Click the MCP icon in the Artery toolbar. When it turns **green**, the Agentic AI server is on and ready.
 
 <p align="center">
-  <img src="images/ai-server-on.png" width="320" alt="Artery Agentic AI server turned on — green icon" />
+  <img src="images/AI-Server-On.png" width="320" alt="Artery Agentic AI server turned on — green icon" />
 </p>
 
 > Red means off. Green means on.

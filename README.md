@@ -10,12 +10,12 @@ Connect your AI coding agent to your API workspace in [Artery](https://prodarter
 
 **Step 1 — Open the Artery app**
 
-**Step 2 — Turn on the Agentic AI server**
+**Step 2 — Turn on the MCP Agentic Server**
 
-Click the MCP icon in the Artery toolbar. When it turns **green**, the Agentic AI server is on and ready.
+Click the MCP icon in the Artery toolbar. When it turns **green**, the MCP Agentic Server is on and ready.
 
 <p align="center">
-  <img src="images/AI-Server-On.png" width="320" alt="Artery Agentic AI server turned on — green icon" />
+  <img src="images/AI-Server-On.png" width="320" alt="Artery MCP Agentic Server turned on — green icon" />
 </p>
 
 > Red means off. Green means on.

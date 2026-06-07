@@ -34,6 +34,11 @@ brew install artery
 claude mcp add artery artery
 ```
 
+### GitHub Copilot CLI
+```bash
+copilot mcp add artery -- artery
+```
+
 ### Codex
 First:
 ```bash
@@ -52,7 +57,7 @@ command = "artery"
 When a new version of Artery is released, run:
 
 ```bash
-brew update && brew upgrade artery
+brew upgrade artery
 ```
 
 ---

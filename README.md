@@ -44,7 +44,7 @@ First:
 ```bash
 nano ~/.codex/config.toml
 ```
-Add:
+Then add:
 ```toml
 [mcp_servers.artery]
 command = "artery"
